@@ -2,7 +2,7 @@ body{
     box-sizing: border-box;
 }
 .banner{
-    background:url(../../../media/info/p1_text.jpeg) no-repeat;
+    background:url(images/p1_text.jpeg) no-repeat;
     width:100%;
     min-height: 700px;
     margin-bottom: 80px;
